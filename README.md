@@ -1,2 +1,11 @@
-# Travel.io_08-04-23
-Learn how to design and build your own stunning travel website using HTML and CSS with our step-by-step tutorial.
+# Responsive Hiking Club Website
+### Responsive Hiking Club Website
+
+- Responsive Hiking Club Website Design Using HTML CSS And JavaScript.
+- Contains scroll Reveal animation
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Code Genius](https://www.youtube.com/@codegenius02)
+
+![preview img](/Preview.png)
